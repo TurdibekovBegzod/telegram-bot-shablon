@@ -1,2 +1,2 @@
-# telegram-bot-shablon
-Telegram bot qurishlik uchun
+# Telegram-bot-shablon
+Telegram bot qurishlik uchun shablon
